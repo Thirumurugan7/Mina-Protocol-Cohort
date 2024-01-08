@@ -15,11 +15,10 @@ npm run test
 npm run testw # watch mode
 ```
 
-## How to run coverage
+## How to zk proof
 
 ```sh
-npm run coverage
-```
+npm run build && node build/src/main.js```
 
 ## License
 
